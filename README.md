@@ -1,6 +1,6 @@
 # Portfolio Fatec
-<h1 align="center">Portfólio pessoal, individual com trabalhos realizados na instituição fatec.</h1>
-<h3 align="justify">Este repositório é um portfólio, do qual, eu me apresento e conto sobre minhas atividades na instituição fatec, mostrando-lhes os projetos realizados com empresas parceiras, soft skills, hard skills, entre outros!.</h3>
+<h1 align="center">Este repositório representa meu portfólio pessoal e individual, destacando os trabalhos realizados durante minha participação na instituição Fatec.</h1>
+<h3 align="justify">Através desta plataforma, apresento-me e relato minhas atividades acadêmicas, expondo projetos colaborativos desenvolvidos em parceria com empresas, assim como minhas competências em habilidades técnicas (hard skills) e interpessoais (soft skills). Este registro proporciona uma visão abrangente das experiências e conquistas obtidas ao longo do meu percurso acadêmico na Fatec.</h3>
 <hr>
 <h2> SUMÁRIO </h2>
 <p>° <a href="#quem-eu-sou-?">Quem eu sou?</a></p>
@@ -46,7 +46,7 @@
 </details>
 <hr>
 
-<h2 href="quem-eu-sou-?"> QUEM EU SOU?</h2>
+<h2> QUEM EU SOU?</h2>
 <p align="center"><img src="https://github.com/igorpereira28.png" width="20%"></p>
 <h3 align="center">IGOR PEREIRA</h3>
 <p> Olá telespectador! Sou Ingressante na instituição fatec do segundo semestre de 2022, no curso de Desenvolvimento de Software Multiplataformas, mas não iniciei na área de programação aí...
