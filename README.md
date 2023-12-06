@@ -3,7 +3,7 @@
 <h3 align="justify">Este repositório é um portfólio, do qual, eu me apresento e conto sobre minhas atividades na instituição fatec, mostrando-lhes os projetos realizados com empresas parceiras, soft skills, hard skills, entre outros!.</h3>
 <hr>
 <h2> SUMÁRIO </h2>
-<p>° <a href="#quem-sou">Quem eu sou?</a></p>
+<p>° <a href="#quem-eu-sou-?">Quem eu sou?</a></p>
 <p>° <a href="#meus-projetos">Meus Projetos</a></p>
 <details>
     <summary>Visualizar</summary>
@@ -46,7 +46,7 @@
 </details>
 <hr>
 
-<h2 href="#quem-sou"> QUEM EU SOU?</h2>
+<h2 href="quem-eu-sou-?"> QUEM EU SOU?</h2>
 <p align="center"><img src="https://github.com/igorpereira28.png" width="20%"></p>
 <h3 align="center">IGOR PEREIRA</h3>
 <p> Olá telespectador! Sou Ingressante na instituição fatec do segundo semestre de 2022, no curso de Desenvolvimento de Software Multiplataformas, mas não iniciei na área de programação aí...
@@ -61,7 +61,7 @@ Em 2019 foi minha primeira vinda a fatec para realização de algum curso, sendo
 <h2>Meus Projetos</h2>
 <h3>1º Semestre • 2/2022 • </h3>
 
-<h3>[Equipe Spicecorp](https://github.com/https-github-com-spicecorpdev/spicebank/)</h3>
+<h3><a href="https://github.com/https-github-com-spicecorpdev/spicebank/">Equipe Spicecorp</a></h3>
 <h3>Spicebank</h3>
 
 <p align="center"><img src="https://github.com/https-github-com-spicecorpdev.png" width="20%"></img></p>
@@ -72,6 +72,7 @@ Em 2019 foi minha primeira vinda a fatec para realização de algum curso, sendo
 
 <p align="justify">Recebemos a proposta, no 1 Semestre da Fatec, no curso de Desenvolvimento de Software Multiplataforma, de criar um projeto, um sistema para gerenciamento de transações em um banco digital fictício, visando monitorar e controlar operações bancárias de um banco digital, tendo as operações básicas de um banco e algumas coisas além, como juros mensais e anuais, reduzindo as interações presenciais.</p>
 <h3>Tecnologias Utilizadas</h3>
+<div style="display: inline_block">
   <img align="center" alt="Igor-Js" height="40" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="Igor-HTML" height="40" width="120" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Igor-Css" height="40" width="120" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -82,6 +83,7 @@ Em 2019 foi minha primeira vinda a fatec para realização de algum curso, sendo
   <img align="center" alt="VSCode Badge" height="40" width="120" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img align="center" alt="Git Badge" height="40" width="120" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="GitHub Badge" height="40" width="120" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 <br>
 <h3>Contribuições Pessoais e desafios</h3>
 <p align="justify">Como desenvolvedor, fiquei mais com a parte do backend, banco de dados, mas também fiquei responsável por algumas funcionalidades do frontend, sendo Full-Stack no projeto.
@@ -149,16 +151,17 @@ Ajudei nos CRUDS do projeto, criei o banco, fiz a modelagem e ajudei no que era 
 
 <h3>2º Semestre • 1/2023 • </h3>
 
-<h3>[Equipe Spicecorp](https://github.com/OctAgro)</h3>
+<h3><a href="https://github.com/OctAgro">Equipe OctAgro</a></h3>
 <h3>OctAgro</h3>
 
 <p align="center"><img src="https://github.com/OctAgro.png" width="20%"></img></p>
 
-<p align="center">O projeto foi desenvolvido com a empresa parceira [Jaia Software](https://jaia.software), como cliente
+<p align="center">O projeto foi desenvolvido com a empresa parceira <a href="https://jaia.software">Jaia Software</a>, como cliente
 
 <p align="justify">Meu papel no projeto: Development Team.</p>
 
 <p align="justify">No 2° Semestre de curso, 1° Semestre do ano, o nosso cliente é a empresa Jaia Software, e nos fora proposto "Desenvolver um sistema de Inspeção de entrada para controle de recebimento de grãos."</p>
+<div style="display: inline_block">
   <img align="center" alt="Igor-Js" height="40" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="Igor-HTML" height="40" width="120" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Igor-Css" height="40" width="120" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -173,6 +176,7 @@ Ajudei nos CRUDS do projeto, criei o banco, fiz a modelagem e ajudei no que era 
   <img align="center" alt="VSCode Badge" height="40" width="120" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img align="center" alt="Git Badge" height="40" width="120" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="GitHub Badge" height="40" width="120" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 <br>
 <h3>Contribuições Pessoais e desafios</h3>
 <p align="justify">Como desenvolvedor, fiquei novamente mais com a parte do backend e banco de dados, porém, caso precisassem, ajudava no frontend.
@@ -237,16 +241,17 @@ Neste projeto, começamos utilizar o método ORM, em TypeScript e eu fiz a parte
 
 <h3>3º Semestre • 2/2023 • </h3>
 
-<h3>[Equipe Spicecorp](https://github.com/OctAgro)</h3>
-<h3>OctAgro</h3>
+<h3><a href="https://github.com/Nine-Tech">Equipe Nine Tech</a></h3>
+<h3>Nine Tech</h3>
 
 <p align="center"><img src="https://github.com/Nine-Tech.png" width="20%"></img></p>
 
-<p align="center">O projeto foi desenvolvido com a empresa parceira [SIATT](https://www.siatt.com.br/siatt/), como cliente
+<p align="center">O projeto foi desenvolvido com a empresa parceira <a href="https://www.siatt.com.br/siatt/" target="_blank">SIATT</a>, como cliente</p>
 
 <p align="justify">Meu papel no projeto: Development Team.</p>
 
 <p align="justify">Recebemos a proposta da empresa Siatt, de fazer um sistema para gerenciar eficazmente seus projetos estratégicos em um cenário de complexidade, apresentamos uma solução abrangente e flexível, um Sistema de Gerenciamento de Times para Projetos Complexos. Esse sistema foi projetado para atender às necessidades específicas da Siatt, permitindo tanto um macro gerenciamento quanto um micro gerenciamento dos projetos.</p>
+<div style="display: inline_block">
   <img align="center" alt="Java Badge" height="40" width="120" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="JavaScript Badge" height="40" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="Bootstrap Badge" height="40" width="120" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -261,6 +266,7 @@ Neste projeto, começamos utilizar o método ORM, em TypeScript e eu fiz a parte
   <img align="center" alt="GitHub Badge" height="40" width="120" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img align="center" alt="Slack Badge" height="40" width="120" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <img align="center" alt="Igor-React" height="40" width="120" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+</div>
 <br>
 <h3>Contribuições Pessoais e desafios</h3>
 <p align="justify">Como desenvolvedor, fiquei novamente mais com a parte do backend, banco de dados e agora fiquei com algumas tasks em frontend.
