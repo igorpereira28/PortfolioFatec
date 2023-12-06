@@ -13,7 +13,7 @@
             <details>
                 <summary>Detalhes</summary>
                 <ul>° <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></ul>
-                <ul>° <a href="#contribuições-pessoais">Contribuições Pessoais e desafios</a></ul>
+                <ul>° <a href="#contribuições-pessoais-e-desafios">Contribuições Pessoais e desafios</a></ul>
                 <ul>° <a href="#hard-skills">Hard Skills</a></ul>
                 <ul>° <a href="#hard-skills">Soft Skills</a></ul>
             </details>
@@ -25,7 +25,7 @@
             <details>
                 <summary>Detalhes</summary>
                 <ul>° <a href="#tecnologias-utilizadas-">Tecnologias Utilizadas</a></ul>
-                <ul>° <a href="#contribuições-pessoais-">Contribuições Pessoais e desafios</a></ul>
+                <ul>° <a href="#contribuições-pessoais-e-desafios-">Contribuições Pessoais e desafios</a></ul>
                 <ul>° <a href="#hard-skills-">Hard Skills</a></ul>
                 <ul>° <a href="#hard-skills-">Soft Skills</a></ul>
             </details>
@@ -37,7 +37,7 @@
             <details>
                 <summary>Detalhes</summary>
                 <ul>° <a href="#tecnologias-utilizadas--">Tecnologias Utilizadas</a></ul>
-                <ul>° <a href="#contribuições-pessoais--">Contribuições Pessoais e desafios</a></ul>
+                <ul>° <a href="#contribuições-pessoais-e-desafios--">Contribuições Pessoais e desafios</a></ul>
                 <ul>° <a href="#hard-skills--">Hard Skills</a></ul>
                 <ul>° <a href="#hard-skills--">Soft Skills</a></ul>
             </details>
@@ -242,7 +242,7 @@ Neste projeto, começamos utilizar o método ORM, em TypeScript e eu fiz a parte
 <h3>3º Semestre • 2/2023 • </h3>
 
 <h3><a href="https://github.com/Nine-Tech">Equipe Nine Tech</a></h3>
-<h3>Nine Tech</h3>
+<h3>NineTech</h3>
 
 <p align="center"><img src="https://github.com/Nine-Tech.png" width="20%"></img></p>
 
