@@ -3,7 +3,7 @@
 <h3 align="justify">Através desta plataforma, apresento-me e relato minhas atividades acadêmicas, expondo projetos colaborativos desenvolvidos em parceria com empresas, assim como minhas competências em habilidades técnicas (hard skills) e interpessoais (soft skills). Este registro proporciona uma visão abrangente das experiências e conquistas obtidas ao longo do meu percurso acadêmico na Fatec.</h3>
 <hr>
 <h2> SUMÁRIO </h2>
-<p>° <a href="#quem-eu-sou-?">Quem eu sou?</a></p>
+<p>° <a href="#quem-eu-sou">Quem eu sou</a></p>
 <p>° <a href="#meus-projetos">Meus Projetos</a></p>
 <details>
     <summary>Visualizar</summary>
@@ -46,7 +46,7 @@
 </details>
 <hr>
 
-<h2>QUEM EU SOU?</h2>
+<h2>Quem eu sou</h2>
 <p align="center"><img src="https://github.com/igorpereira28.png" width="20%"></p>
 <h3 align="center">IGOR PEREIRA</h3>
 <p> Olá telespectador! Sou Ingressante na instituição fatec do segundo semestre de 2022, no curso de Desenvolvimento de Software Multiplataformas, mas não iniciei na área de programação aí...
@@ -55,9 +55,6 @@ Em 2016 fiz técnico em automação industrial na etec, de São José Dos Campos
 <br>
 Em 2019 foi minha primeira vinda a fatec para realização de algum curso, sendo Banco De Dados no segundo semestre daquele ano e tendo o primeiro contato com API, porém, tive de trancar e em 2022 decidi retornar.</p>
 
-<h2>CONHEÇA MEUS PROJETOS</h2>
-
-<div class="semestre1">
 <h2>Meus Projetos</h2>
 <h3>1º Semestre • 2/2022 • </h3>
 
@@ -147,7 +144,6 @@ Ajudei nos CRUDS do projeto, criei o banco, fiz a modelagem e ajudei no que era 
 </details>
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
-</div>
 
 <h3>2º Semestre • 1/2023 • </h3>
 
