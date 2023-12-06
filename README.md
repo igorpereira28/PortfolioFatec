@@ -3,7 +3,7 @@
 <h3 align="justify">Através desta plataforma, apresento-me e relato minhas atividades acadêmicas, expondo projetos colaborativos desenvolvidos em parceria com empresas, assim como minhas competências em habilidades técnicas (hard skills) e interpessoais (soft skills). Este registro proporciona uma visão abrangente das experiências e conquistas obtidas ao longo do meu percurso acadêmico na Fatec.</h3>
 <hr>
 <h2> SUMÁRIO </h2>
-<p>° <a href="#quem-eu-sou-?">Quem eu sou?</a></p>
+<p>° <a href="#quem-eu-sou">Quem eu sou?</a></p>
 <p>° <a href="#meus-projetos">Meus Projetos</a></p>
 <details>
     <summary>Visualizar</summary>
@@ -24,10 +24,10 @@
             <a href="#octagro">2º Semestre • 1/2023 • OctAgro</a>
             <details>
                 <summary>Detalhes</summary>
-                <ul>° <a href="#tecnologias-utilizadas-">Tecnologias Utilizadas</a></ul>
-                <ul>° <a href="#contribuições-pessoais-e-desafios-">Contribuições Pessoais e desafios</a></ul>
-                <ul>° <a href="#hard-skills-">Hard Skills</a></ul>
-                <ul>° <a href="#hard-skills-">Soft Skills</a></ul>
+                <ul>° <a href="#tecnologias-utilizadas-2">Tecnologias Utilizadas</a></ul>
+                <ul>° <a href="#contribuições-pessoais-e-desafios-2">Contribuições Pessoais e desafios</a></ul>
+                <ul>° <a href="#hard-skills-2">Hard Skills</a></ul>
+                <ul>° <a href="#hard-skills-2">Soft Skills</a></ul>
             </details>
         </ul>
     </div>
@@ -36,17 +36,17 @@
             <a href="#ninetech">3º Semestre • 2/2023 • Ninetech</a>
             <details>
                 <summary>Detalhes</summary>
-                <ul>° <a href="#tecnologias-utilizadas--">Tecnologias Utilizadas</a></ul>
-                <ul>° <a href="#contribuições-pessoais-e-desafios--">Contribuições Pessoais e desafios</a></ul>
-                <ul>° <a href="#hard-skills--">Hard Skills</a></ul>
-                <ul>° <a href="#hard-skills--">Soft Skills</a></ul>
+                <ul>° <a href="#tecnologias-utilizadas-3">Tecnologias Utilizadas</a></ul>
+                <ul>° <a href="#contribuições-pessoais-e-desafios-3">Contribuições Pessoais e desafios</a></ul>
+                <ul>° <a href="#hard-skills-3">Hard Skills</a></ul>
+                <ul>° <a href="#hard-skills-3">Soft Skills</a></ul>
             </details>
         </ul>
     </div>
 </details>
 <hr>
 
-<h2> QUEM EU SOU?</h2>
+<h2> QUEM EU SOU</h2>
 <p align="center"><img src="https://github.com/igorpereira28.png" width="20%"></p>
 <h3 align="center">IGOR PEREIRA</h3>
 <p> Olá telespectador! Sou Ingressante na instituição fatec do segundo semestre de 2022, no curso de Desenvolvimento de Software Multiplataformas, mas não iniciei na área de programação aí...
@@ -161,6 +161,7 @@ Ajudei nos CRUDS do projeto, criei o banco, fiz a modelagem e ajudei no que era 
 <p align="justify">Meu papel no projeto: Development Team.</p>
 
 <p align="justify">No 2° Semestre de curso, 1° Semestre do ano, o nosso cliente é a empresa Jaia Software, e nos fora proposto "Desenvolver um sistema de Inspeção de entrada para controle de recebimento de grãos."</p>
+<h3>Tecnologias Utilizadas 2</h3>
 <div style="display: inline_block">
   <img align="center" alt="Igor-Js" height="40" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="Igor-HTML" height="40" width="120" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -178,13 +179,13 @@ Ajudei nos CRUDS do projeto, criei o banco, fiz a modelagem e ajudei no que era 
   <img align="center" alt="GitHub Badge" height="40" width="120" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 <br>
-<h3>Contribuições Pessoais e desafios</h3>
+<h3>Contribuições Pessoais e desafios 2</h3>
 <p align="justify">Como desenvolvedor, fiquei novamente mais com a parte do backend e banco de dados, porém, caso precisassem, ajudava no frontend.
 Neste semestre e nesta API, foram novos grupos, porém, começamos em um ritmo muito bom e desenvolvemos o projeto sem dificuldades(em relação ao tempo), mas tivemos de aprender novas ferramentas.
 Conseguimos entregar todos os desafios propostos, todas as tasks solucionadas e fomos além!
 Neste projeto, começamos utilizar o método ORM, em TypeScript e eu fiz a parte dos usuários, CRUD, funcionalidades dele, como por ex: login, ajudei e fiz CRUD de outras tabelas, como Produto, Pedido, Fornecedor, correção de bugs e ajudei no que foi solicitado.</p>
 
-<h3>Hard Skills</h3>
+<h3>Hard Skills 2</h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
   <br>
@@ -207,7 +208,7 @@ Neste projeto, começamos utilizar o método ORM, em TypeScript e eu fiz a parte
     </tr>
   </table>
 </details>
-<h3>Soft Skills</h3>
+<h3>Soft Skills 2</h3>
 <details>
 <summary><b>Clique para ver a lista de soft skills</b></summary>
   <br>
@@ -251,6 +252,7 @@ Neste projeto, começamos utilizar o método ORM, em TypeScript e eu fiz a parte
 <p align="justify">Meu papel no projeto: Development Team.</p>
 
 <p align="justify">Recebemos a proposta da empresa Siatt, de fazer um sistema para gerenciar eficazmente seus projetos estratégicos em um cenário de complexidade, apresentamos uma solução abrangente e flexível, um Sistema de Gerenciamento de Times para Projetos Complexos. Esse sistema foi projetado para atender às necessidades específicas da Siatt, permitindo tanto um macro gerenciamento quanto um micro gerenciamento dos projetos.</p>
+<h3>Tecnologias Utilizadas 3</h3>
 <div style="display: inline_block">
   <img align="center" alt="Java Badge" height="40" width="120" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="JavaScript Badge" height="40" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -268,13 +270,13 @@ Neste projeto, começamos utilizar o método ORM, em TypeScript e eu fiz a parte
   <img align="center" alt="Igor-React" height="40" width="120" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 </div>
 <br>
-<h3>Contribuições Pessoais e desafios</h3>
+<h3>Contribuições Pessoais e desafios 3</h3>
 <p align="justify">Como desenvolvedor, fiquei novamente mais com a parte do backend, banco de dados e agora fiquei com algumas tasks em frontend.
 Neste semestre e nesta API, manteve os grupos, só entrando novas pessoas.Começamos em um ritmo muito bom, porém, ao decorrer do semestre, entraram e saíram novas e pessoas e não mantivemos o mesmo ritmo do semestre passado, além de aprendermos novas ferramentas.
 Conseguimos entregar todos os desafios propostos e todas as tasks solucionadas!
 Continuamos utilizando ORM, porém, agora em Java - Spring Boot e começamos a utilizar o Docker e mais funcionalidades do Jira. Fiquei responsável por criar o inicio do projeto no backend, adicionando as alterações para conexão ao banco em propriedades e mudança da rota, CRUD dos Usuários, token - JWT, login com inspeção de entrada, autorização de usuário, correção de bugs(mais em frontend), funcionalidades necessárias das tasks, testes e ajudei no que foi solicitado.</p>
 
-<h3>Hard Skills</h3>
+<h3>Hard Skills 3</h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
   <br>
@@ -297,7 +299,7 @@ Continuamos utilizando ORM, porém, agora em Java - Spring Boot e começamos a u
     </tr>
   </table>
 </details>
-<h3>Soft Skills</h3>
+<h3>Soft Skills 3</h3>
 <details>
 <summary><b>Clique para ver a lista de soft skills</b></summary>
   <br>
