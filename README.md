@@ -3,7 +3,7 @@
 <h3 align="justify">Através desta plataforma, apresento-me e relato minhas atividades acadêmicas, expondo projetos colaborativos desenvolvidos em parceria com empresas, assim como minhas competências em habilidades técnicas (hard skills) e interpessoais (soft skills). Este registro proporciona uma visão abrangente das experiências e conquistas obtidas ao longo do meu percurso acadêmico na Fatec.</h3>
 <hr>
 <h2> SUMÁRIO </h2>
-<p>° <a href="#quem-eu-sou">Quem eu sou?</a></p>
+<p>° <a href="#quem-eu-sou-?">Quem eu sou?</a></p>
 <p>° <a href="#meus-projetos">Meus Projetos</a></p>
 <details>
     <summary>Visualizar</summary>
@@ -46,7 +46,7 @@
 </details>
 <hr>
 
-<h2> QUEM EU SOU</h2>
+<h2>QUEM EU SOU?</h2>
 <p align="center"><img src="https://github.com/igorpereira28.png" width="20%"></p>
 <h3 align="center">IGOR PEREIRA</h3>
 <p> Olá telespectador! Sou Ingressante na instituição fatec do segundo semestre de 2022, no curso de Desenvolvimento de Software Multiplataformas, mas não iniciei na área de programação aí...
